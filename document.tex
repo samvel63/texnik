@@ -1,0 +1,88 @@
+\documentclass[10pt]{book}
+\usepackage[a5paper,top=54pt,bottom=54pt,left=48pt,right=48pt]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1,T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{caption2}
+\usepackage{yhmath}
+\linespread{0.5}
+
+%page header
+\usepackage{fancybox,fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[LE,RO]{\textbf{\thepage}}
+\fancyhead[RE]{\textit{\textsection 47. Криволинейные интегралы}}
+\fancyhead[LO]{\textit{47.8 Интегралы, не зависящие от пути интегрирования}}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+
+\setcounter{page}{138}
+\setcounter{figure}{149}
+
+%remove colon after "Рис. %number%"
+\renewcommand{\captionlabeldelim}{~}
+
+%font
+\fontfamily{lh}
+\selectfont
+
+\usepackage{pgfpages}
+\pgfpagesuselayout{2 on 1}[a4paper,landscape,border shrink=5pt]
+
+\begin{document}
+	
+	\noindent отображение $F$ мы наложили несколько более сильные условия,\linebreak
+	потребовав непрерывности смешанных производных $\dfrac{d^2y}{du \ dv}$ и $\dfrac{d^2y}{dv \ du}$ и\linebreak
+	возможности применения формулы Грина для области {Г*}). Нетрудно \linebreak
+	убедиться и в том, что стремление к пределу в формуле (47.27) \linebreak
+	происходит равномерно в смысле, указанном в теореме 1 п. 46.1 \par
+	
+	Несмотря на простоту вывода формулы (47.27), следует отметить, \linebreak
+		что доказательство теоремы 1, приведенное в п. 46.1, идейно пред- \linebreak
+		почтительнее, так как оно лучше раскрывает сущность вопроса, \linebreak
+		связанную с тем, что дифференцируемое отображение в малом до- \linebreak
+		статочно хорошо аппроксимируется линейным отображением. \par
+	\begin{center}
+		{\textbf{47.8. Криволинейные интегралы, не зависящие \linebreak от пути интегрирования}}
+	\end{center}	
+	
+	
+	Все кривые (контуры), рассматриваемые в этом пункте,\linebreak
+	будут всегда предполагаться кусочно-гладкими; для краткости это\linebreak
+	не будет каждый раз специально оговариваться.\par
+	
+	Рассмотрим вопрос о том, когда криволинейным интеграл \linebreak
+	$\int\limits_{\wideparen{AB}} P dx + Q dy$ зависит только от точек A и B и не зависит от выбора \linebreak
+	кривой $\wideparen{AB}$, их соединяющей. \par 
+	
+	\textit{\textbf{Теорема 3.} Пусть функции P(x, y) и Q(x, y) непрерывны в пло-\linebreak 
+	ской области G, тогда эквивалентны следующие три условия.} \par
+	
+		
+	 \textit{1. Для любого замкнутого контура $\gamma$, лежащего в G,} \par 
+	
+	$$ \int\limits_{\gamma} P dx + Q dy = 0.$$
+	
+	 \textit{2. Для любых двух точек A  $\in$ G и B $\in$ G значение интеграла} \linebreak 
+	
+	$$\int\limits_{\wideparen{AB}} P dx + Q dy$$
+	
+	\textit{не зависит от кривой $\wideparen{AB} \subset G$, соединяющей точки A и B.} \par 
+	\textit{3. Выражение P dx + Q dy является в G полным дифференциалом,\linebreak
+	т. е. существует функция u(M) = u(x, y), M = (x, y), определен-\linebreak
+	ная в G и такая, что} \par
+	
+	$$du=P dx + Q dy.$$
+	\textit{В этом случае если A  $\in$ G и B $\in$ G, то}\par 
+	
+	$$ \int\limits_{\wideparen{AB}} P dx + Q dy = u \left( B \right) - u \left( A \right) $$
+	\textit{для любой кривой $\wideparen{AB}$, соединяющей в G эти точки.} \par 
+	\textit{Таким образом, выполнение каждого из условий 1, 2 и 3 необходимо \linebreak и достаточно для выполнения каждого из двух остальных.} \par
+	
+	Доказательство. Покажем, что из первого условия сле- \linebreak
+	дует второе
+	
+\end{document}
