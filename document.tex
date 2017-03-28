@@ -7,6 +7,9 @@
 \usepackage{amsmath,amsthm,amssymb}
 \usepackage{caption2}
 \usepackage{yhmath}
+
+
+
 \linespread{0.5}
 
 %page header
@@ -32,6 +35,7 @@
 \usepackage{pgfpages}
 \pgfpagesuselayout{2 on 1}[a4paper,landscape,border shrink=5pt]
 
+
 \begin{document}
 	
 	\noindent отображение $F$ мы наложили несколько более сильные условия,\linebreak
@@ -50,7 +54,7 @@
 	\end{center}	
 	
 	
-	Все кривые (контуры), рассматриваемые в этом пункте,\linebreak
+	\,\,\,\,Все кривые (контуры), рассматриваемые в этом пункте,\linebreak
 	будут всегда предполагаться кусочно-гладкими; для краткости это\linebreak
 	не будет каждый раз специально оговариваться.\par
 	
@@ -75,14 +79,47 @@
 	т. е. существует функция u(M) = u(x, y), M = (x, y), определен-\linebreak
 	ная в G и такая, что} \par
 	
-	$$du=P dx + Q dy.$$
+	$$du=P dx + Q dy. \eqno (47.28)$$
 	\textit{В этом случае если A  $\in$ G и B $\in$ G, то}\par 
 	
-	$$ \int\limits_{\wideparen{AB}} P dx + Q dy = u \left( B \right) - u \left( A \right) $$
+	$$ \int\limits_{\wideparen{AB}} P dx + Q dy = u \left( B \right) - u \left( A \right) \eqno (47.29)$$
 	\textit{для любой кривой $\wideparen{AB}$, соединяющей в G эти точки.} \par 
 	\textit{Таким образом, выполнение каждого из условий 1, 2 и 3 необходимо \linebreak и достаточно для выполнения каждого из двух остальных.} \par
 	
-	Доказательство. Покажем, что из первого условия сле- \linebreak
-	дует второе
+	Д\,о\,к\,а\,з\,а\,т\,е\,л\,ь\,с\,т\,в\,о. Покажем, что из первого условия сле- \linebreak
+	дует второе, из второго - третье, а из третьего - первое, т.е. про- \linebreak
+	ведем доказательство по схеме \par 
 	
+	
+	\begin{figure}[h]
+        \begin{minipage}{1\textwidth}
+	\centering\includegraphics[width=60pt,height=100pt,keepaspectratio]{img1}
+		\end{minipage}
+	\end{figure}
+	
+	\noindent Этим будет, очевидно, доказано, что из любого условия 1, 2 и 3 следу- \linebreak
+	ет любое другое из них. \par 
+	
+	\begin{figure}[h]
+		\begin{minipage}{1.8\textwidth}
+			\centering\includegraphics[width=60pt,height=60pt]{img2}
+		\end{minipage}
+
+	\end{figure}
+	
+	
+	
+	
+	\noindent Но \par 
+	$$\int\limits_{\left( \wideparen{AB} \right)_{1} \smile \left( \wideparen{BA} \right)_{2}} P dx + Q dy = \int\limits_{\left( \wideparen{AB} \right)_{1}} P dx + Q dy + 
+	\int\limits_{\left( \wideparen{BA} \right)_{2}} P dx + Q dy =$$
+	$$\int\limits_{\left( \wideparen{AB} \right)_{1}} P dx + Q dy - \int\limits_{\left( \wideparen{AB} \right)_{2}} P dx + Q dy.  \eqno (47.31)$$
+	\noindent т.е. свойство 2 выполняется. \par 
+	$$ $$\par 
+	В\,т\,о\,р\,о\,й ш\,а\,г: 2 \to 3.$ Пусть M_{0}$ $\in$ G, M=(x, y) $\in$ G и $\wideparen{M_{0}M} -$ \linebreak
+	некоторая кривая, соединяющая в G точки $M_{0}$ и M. \,Положим \par 
+	$$ u(M)=\int\limits_{\wideparen{M_{0}M}} P dx + Q dy. $$ \par 
+	В силу условия 2 при фиксированной точке $M_{0}$ функция u(x, y)\linebreak
+	является однозначной функцией, так как значение u(M) = u(x, y) не \par 
+
 \end{document}
