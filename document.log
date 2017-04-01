@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.27)  28 MAR 2017 20:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.27)  1 APR 2017 11:49
 entering extended mode
 **./document.tex
 (document.tex
@@ -746,17 +746,25 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 13.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 14.
 )
+(C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen132
+\WF@size=\dimen133
+\c@WF@wrappedlines=\count105
+\WF@box=\box28
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
-\@fancybox=\box28
-\shadowsize=\dimen132
-\@Sbox=\box29
-\do@VerbBox=\toks29
-\the@fancyput=\toks30
-\this@fancyput=\toks31
-\EndVerbatimTokens=\toks32
+\@fancybox=\box29
+\shadowsize=\dimen134
+\@Sbox=\box30
+\do@VerbBox=\toks30
+\the@fancyput=\toks31
+\this@fancyput=\toks32
+\EndVerbatimTokens=\toks33
 \Verbatim@Outfile=\write3
 \Verbatim@Infile=\read1
 ) (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
@@ -788,15 +796,15 @@ Package: pgfpages 2011/01/05 ver 0.02
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon.tex
-\pgfutil@everybye=\toks33
-\pgfutil@tempdima=\dimen133
-\pgfutil@tempdimb=\dimen134
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
 
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon-lists.tex))
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
 tex.def
-\pgfutil@abb=\box30
+\pgfutil@abb=\box31
  (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -810,30 +818,30 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
 de.tex
-\pgfkeys@pathtoks=\toks34
-\pgfkeys@temptoks=\toks35
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
 
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks36
+\pgfkeys@tmptoks=\toks37
 ))
-\pgf@x=\dimen135
-\pgf@y=\dimen136
-\pgf@xa=\dimen137
-\pgf@ya=\dimen138
-\pgf@xb=\dimen139
-\pgf@yb=\dimen140
-\pgf@xc=\dimen141
-\pgf@yc=\dimen142
+\pgf@x=\dimen137
+\pgf@y=\dimen138
+\pgf@xa=\dimen139
+\pgf@ya=\dimen140
+\pgf@xb=\dimen141
+\pgf@yb=\dimen142
+\pgf@xc=\dimen143
+\pgf@yc=\dimen144
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count105
-\c@pgf@countb=\count106
-\c@pgf@countc=\count107
-\c@pgf@countd=\count108
-\t@pgf@toka=\toks37
-\t@pgf@tokb=\toks38
-\t@pgf@tokc=\toks39
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
 
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -851,8 +859,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
 ftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count109
-\pgfsyssoftpath@bigbuffer@items=\count110
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
 otocol.code.tex
@@ -887,12 +895,12 @@ e.tex
 e.tex)
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
 ode.tex
-\pgfmath@dimen=\dimen143
-\pgfmath@count=\count111
-\pgfmath@box=\box31
-\pgfmath@toks=\toks40
-\pgfmath@stack@operand=\toks41
-\pgfmath@stack@operation=\toks42
+\pgfmath@dimen=\dimen145
+\pgfmath@count=\count112
+\pgfmath@box=\box32
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
 s.code.tex
@@ -914,57 +922,57 @@ s.misc.code.tex)
 s.integerarithmetics.code.tex)))
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
 de.tex
-\c@pgfmathroundto@lastzeros=\count112
+\c@pgfmathroundto@lastzeros=\count113
 ))
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
 ints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen144
-\pgf@picmaxx=\dimen145
-\pgf@picminy=\dimen146
-\pgf@picmaxy=\dimen147
-\pgf@pathminx=\dimen148
-\pgf@pathmaxx=\dimen149
-\pgf@pathminy=\dimen150
-\pgf@pathmaxy=\dimen151
-\pgf@xx=\dimen152
-\pgf@xy=\dimen153
-\pgf@yx=\dimen154
-\pgf@yy=\dimen155
-\pgf@zx=\dimen156
-\pgf@zy=\dimen157
+\pgf@picminx=\dimen146
+\pgf@picmaxx=\dimen147
+\pgf@picminy=\dimen148
+\pgf@picmaxy=\dimen149
+\pgf@pathminx=\dimen150
+\pgf@pathmaxx=\dimen151
+\pgf@pathminy=\dimen152
+\pgf@pathmaxy=\dimen153
+\pgf@xx=\dimen154
+\pgf@xy=\dimen155
+\pgf@yx=\dimen156
+\pgf@yy=\dimen157
+\pgf@zx=\dimen158
+\pgf@zy=\dimen159
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen158
-\pgf@path@lasty=\dimen159
+\pgf@path@lastx=\dimen160
+\pgf@path@lasty=\dimen161
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen160
-\pgf@shorten@start@additional=\dimen161
+\pgf@shorten@end@additional=\dimen162
+\pgf@shorten@start@additional=\dimen163
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
 opes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box32
-\pgf@hbox=\box33
-\pgf@layerbox@main=\box34
-\pgf@picture@serial@count=\count113
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count114
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
 aphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen162
+\pgflinewidth=\dimen164
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
 ansformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen163
-\pgf@pt@y=\dimen164
-\pgf@pt@temp=\dimen165
+\pgf@pt@x=\dimen165
+\pgf@pt@y=\dimen166
+\pgf@pt@temp=\dimen167
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
 ick.code.tex
@@ -981,13 +989,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
 rows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen166
+\pgfarrowsep=\dimen168
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
 ade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen167
-\pgf@sys@shading@range@num=\count114
+\pgf@max=\dimen169
+\pgf@sys@shading@range@num=\count115
 )
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
 age.code.tex
@@ -996,7 +1004,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
 ternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box35
+\pgfexternal@startupbox=\box36
 ))
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
 yers.code.tex
@@ -1011,29 +1019,29 @@ tterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count115
-\calc@Bcount=\count116
-\calc@Adimen=\dimen168
-\calc@Bdimen=\dimen169
+\calc@Acount=\count116
+\calc@Bcount=\count117
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count117
+\calc@Ccount=\count118
 \calc@Cskip=\skip60
 )
-\pgf@logicalpages=\count118
-\pgf@firstshipout=\count119
-\pgf@lastshipout=\count120
-\pgf@currentshipout=\count121
-\pgf@cpn=\count122
-\pgf@shipoutnextto=\count123
-\pgfphysicalheight=\dimen170
-\pgfphysicalwidth=\dimen171
-\pgfpages@shipoutbox=\box36
+\pgf@logicalpages=\count119
+\pgf@firstshipout=\count120
+\pgf@lastshipout=\count121
+\pgf@currentshipout=\count122
+\pgf@cpn=\count123
+\pgf@shipoutnextto=\count124
+\pgfphysicalheight=\dimen172
+\pgfphysicalwidth=\dimen173
+\pgfpages@shipoutbox=\box37
 )
-\pgfpages@box@1=\box37
-\pgfpages@box@2=\box38
+\pgfpages@box@1=\box38
+\pgfpages@box@2=\box39
 
 (document.aux)
 \openout1 = `document.aux'.
@@ -1089,17 +1097,17 @@ LaTeX Font Info:    ... okay on input line 39.
 
 (C:\Users\samve\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen172
-\scratchbox=\box39
-\nofMPsegments=\count125
-\nofMParguments=\count126
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen173
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count125
+\scratchdimen=\dimen174
+\scratchbox=\box40
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen175
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks45
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -1181,53 +1189,74 @@ Underfull \hbox (badness 1454) in paragraph at lines 47--51
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
-[]\T2A/lh/m/n/10 Все кри-вые (кон-ту-ры), рас-смат-ри-ва-е-мые в этом пунк-те,
+Underfull \hbox (badness 2277) in paragraph at lines 59--61
+[]$$ $$ $$\T2A/lh/m/n/10 Все кри-вые (кон-ту-ры), рас-смат-ри-ва-е-мые в этом п
+унк-те,
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 61--63
+Underfull \hbox (badness 7099) in paragraph at lines 63--65
 []\T2A/lh/m/n/10 Рассмотрим во-прос о том, ко-гда кри-во-ли-ней-ным ин-те-грал
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 
-Underfull \hbox (badness 3977) in paragraph at lines 89--91
+Underfull \hbox (badness 3977) in paragraph at lines 91--93
 []\T2A/lh/m/n/10 Доказательство. По-ка-жем, что из пер-во-го усло-вия сле-
  []
 
 <img1.jpg, id=4, 101.78024pt x 98.16675pt>
 File: img1.jpg Graphic file (type jpg)
  <use img1.jpg>
-Package pdftex.def Info: img1.jpg used on input line 96.
+Package pdftex.def Info: img1.jpg used on input line 98.
 (pdftex.def)             Requested size: 60.0001pt x 57.86993pt.
 
 <img2.jpg, id=5, 178.86826pt x 202.356pt>
 File: img2.jpg Graphic file (type jpg)
  <use img2.jpg>
-Package pdftex.def Info: img2.jpg used on input line 105.
-(pdftex.def)             Requested size: 59.99834pt x 59.99709pt.
+Package pdftex.def Info: img2.jpg used on input line 107.
+(pdftex.def)             Requested size: 59.99834pt x 67.87689pt.
 
-Overfull \hbox (260.08162pt too wide) in paragraph at lines 104--107
-[]$[]$ 
+Underfull \hbox (badness 5260) in paragraph at lines 111--116
+[][]\T2A/lh/m/n/10 Первый шаг: $\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ! \OT1/cmr/m
+/n/10 2$\T2A/lh/m/n/10 . Пусть $\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 2 \OML/cmm/
+m/it/10 G$\T2A/lh/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
+\T2A/lh/m/n/10 еди-ня-ю-щие в G точ-ки A и B (рис. 152).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
+\T2A/lh/m/n/10 образует за-мкну-тый кон-тур, и по-то-му в
+ []
+
+
+Overfull \hbox (31.05981pt too wide) detected at line 122
+[] \OML/cmm/m/it/10 Pdx \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Qdy \OT1/cmr/m/n/10 
+= [] \OML/cmm/m/it/10 Pdx \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Qdy \OT1/cmr/m/n/1
+0 + [] \OML/cmm/m/it/10 Pdx \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 Qdy \OT1/cmr/m/n
+/10 =
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.119 	Р’\,С‚\,Рѕ\,СЂ\,Рѕ\,Р№ С€\,Р°\,Рі: 2 \to
-                                                3.$ РџСѓСЃС‚СЊ M_{0}$ $\in$ ...
+l.126 	Р’\,С‚\,Рѕ\,СЂ\,Рѕ\,Р№\, С€\,Р°\,Рі: 2 \to
+                                                  3.$ РџСѓСЃС‚СЊ M_{0}$ $\in...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.119 ...ѕ\,Р№ С€\,Р°\,Рі: 2 \to 3.$ РџСѓСЃС‚СЊ M_
+l.126 ...,Р№\, С€\,Р°\,Рі: 2 \to 3.$ РџСѓСЃС‚СЊ M_
                                                   {0}$ $\in$ G, M=(x, y) $\i...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1240,13 +1269,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12643 strings out of 493333
- 221060 string characters out of 3139194
- 285340 words of memory out of 3000000
- 15900 multiletter control sequences out of 15000+200000
+ 12710 strings out of 493333
+ 221938 string characters out of 3139194
+ 290559 words of memory out of 3000000
+ 15963 multiletter control sequences out of 15000+200000
  9821 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,12n,43p,454b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,43p,454b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\samve\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 bi1000.pk> <C:\Users\samve\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unk
 nown\dpi600\larm1000.pk> <C:\Users\samve\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
@@ -1259,9 +1288,9 @@ s/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/samve/AppDat
 a/Roaming/MiKTeX/2.9/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on document.pdf (1 page, 172370 bytes).
+Output written on document.pdf (1 page, 175077 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,7 +7,7 @@
 \usepackage{amsmath,amsthm,amssymb}
 \usepackage{caption2}
 \usepackage{yhmath}
-
+\usepackage{wrapfig}
 
 
 \linespread{0.5}
@@ -49,12 +49,14 @@
 		почтительнее, так как оно лучше раскрывает сущность вопроса, \linebreak
 		связанную с тем, что дифференцируемое отображение в малом до- \linebreak
 		статочно хорошо аппроксимируется линейным отображением. \par
-	\begin{center}
-		{\textbf{47.8. Криволинейные интегралы, не зависящие \linebreak от пути интегрирования}}
-	\end{center}	
+	\begin{flushleft}
+		{\textbf{$ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $\,47.8. Криволинейные интегралы, не зависящие} \par
+		 \noindent\textbf{$ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $\,от пути интегрирования}}
+	\end{flushleft}	
+
 	
 	
-	\,\,\,\,Все кривые (контуры), рассматриваемые в этом пункте,\linebreak
+	$ $ $ $ $ $\,\,\,\,Все кривые (контуры), рассматриваемые в этом пункте,\linebreak
 	будут всегда предполагаться кусочно-гладкими; для краткости это\linebreak
 	не будет каждый раз специально оговариваться.\par
 	
@@ -74,7 +76,7 @@
 	
 	$$\int\limits_{\wideparen{AB}} P dx + Q dy$$
 	
-	\textit{не зависит от кривой $\wideparen{AB} \subset G$, соединяющей точки A и B.} \par 
+	\noindent\textit{не зависит от кривой $\wideparen{AB} \subset G$, соединяющей точки A и B.} \par 
 	\textit{3. Выражение P dx + Q dy является в G полным дифференциалом,\linebreak
 	т. е. существует функция u(M) = u(x, y), M = (x, y), определен-\linebreak
 	ная в G и такая, что} \par
@@ -99,16 +101,21 @@
 	
 	\noindent Этим будет, очевидно, доказано, что из любого условия 1, 2 и 3 следу- \linebreak
 	ет любое другое из них. \par 
-	
-	\begin{figure}[h]
-		\begin{minipage}{1.8\textwidth}
-			\centering\includegraphics[width=60pt,height=60pt]{img2}
-		\end{minipage}
 
-	\end{figure}
+\begin{wrapfigure}{r}{0.2\linewidth} % l - слева, r - справа, с - центр
 	
+	\centering\includegraphics[width=60pt,height=100pt,keepaspectratio]{img2} %scale масштаб
+	\label{pic:img2} %метка для ссылки по тексту
+\end{wrapfigure}
 	
+	П\,е\,р\,в\,ы\,й\, ш\,а\,г: $1 \to 2$. Пусть $A \in G$, \linebreak
+	$B \in G$ и даны две кривые $\left( \wideparen{AB}\right)_{1}$ и $\left( \wideparen{AB}\right)_{2}$, со- \linebreak
+	единяющие в G точки A и B (рис. 152). \linebreak
+	Сумма $\left( \wideparen{AB} \right)_{1} \smile \left( \wideparen{BA} \right)_{2}$ кривых $\left( \wideparen{AB} \right)_{1}$ и $\left( \wideparen{BA} \right)_{2}$\linebreak
+	образует замкнутый контур, и потому в\linebreak
+	силу выполнения свойства 1 \par 
 	
+	$$ \int\limits_{\left( \wideparen{AB} \right)_{1} \smile \left( \wideparen{BA} \right)_{2}} P dx + Q dy = 0. \eqno (47.30)$$
 	
 	\noindent Но \par 
 	$$\int\limits_{\left( \wideparen{AB} \right)_{1} \smile \left( \wideparen{BA} \right)_{2}} P dx + Q dy = \int\limits_{\left( \wideparen{AB} \right)_{1}} P dx + Q dy + 
@@ -116,10 +123,10 @@
 	$$\int\limits_{\left( \wideparen{AB} \right)_{1}} P dx + Q dy - \int\limits_{\left( \wideparen{AB} \right)_{2}} P dx + Q dy.  \eqno (47.31)$$
 	\noindent т.е. свойство 2 выполняется. \par 
 	$$ $$\par 
-	В\,т\,о\,р\,о\,й ш\,а\,г: 2 \to 3.$ Пусть M_{0}$ $\in$ G, M=(x, y) $\in$ G и $\wideparen{M_{0}M} -$ \linebreak
-	некоторая кривая, соединяющая в G точки $M_{0}$ и M. \,Положим \par 
+	В\,т\,о\,р\,о\,й\, ш\,а\,г: 2 \to 3.$ Пусть M_{0}$ $\in$ G, M=(x, y) $\in$ G и $\wideparen{M_{0}M} -$ \linebreak
+	некоторая кривая, соединяющая в G точки$ M_{0}$ и M. \,Положим \par 
 	$$ u(M)=\int\limits_{\wideparen{M_{0}M}} P dx + Q dy. $$ \par 
 	В силу условия 2 при фиксированной точке $M_{0}$ функция u(x, y)\linebreak
-	является однозначной функцией, так как значение u(M) = u(x, y) не \par 
+	$ $\, является однозначной функцией, так как значение u(M) = u(x, y) $ $\, не \par 
 
 \end{document}
